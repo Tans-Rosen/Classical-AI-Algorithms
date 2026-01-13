@@ -159,7 +159,7 @@ The grid worlds contain four terrain types with different movement costs:
 ## Project Structure
 
 ```
-ai-hw-1/
+path-finding-algorithms/
 ├── README.md                 # This file
 ├── run_experiments.py        # Command-line interface
 ├── search_algorithms.py      # Core search algorithm implementations
